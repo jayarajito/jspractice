@@ -1,0 +1,12 @@
+React Links
+https://www.youtube.com/playlist?list=PLnZgHKyxHOEA_YXULN0tmnnuVo0Jy-SnU
+
+Fetch API
+https://www.youtube.com/watch?v=bfYLPXRjvVo
+
+git branch -M main
+git branch -av 
+git checkout main
+process. exit() method to exit from the Node console. or even simpler you can just type . exit .
+
+

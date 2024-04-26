@@ -1,0 +1,26 @@
+Anonymous User
+2 days ago
+
+2.4K VIEWS
+
+Hello People ,
+I am sharing my interview experience with oracle oci (cloud guard team ) .
+Previous Experience - SDE 2 @Amazon
+Experience - 5.10 years
+In total there are 6 rounds .
+Tech Phone Screen - (Taken by Hiring Manager )
+Asked previous work experience , ask to code a problem based on binary search (need to run all tests on HackerRank) .
+Round 1 - (DSA round ) -> given hard dp question . Coded the solution but not able to give optimal approach ,
+Ask me to write code for DeadLock and compile and run it .
+Few Questions on Java streams and Multithreading .
+(round 2 ) -> Design Round -> Asked me to draw current architecture of my project and explain the flow , after that asked me HLD of a service which is responsible for genration of various workflows related to resource allocation for a coud service provider .
+(Round 3 ) - Bar Tender -
+It was worst round for me , he was quite rude since i switched frequently so he started giving me long lecture , then went deep into my current project , asked questions on design patterns , seamphores , Multithreading , Spring , Kafka and Docker , this round extended to 1:40 hrs .
+(Round 4 )- > HM Round -> Asked me to code Coin change problem and run all tests .
+Then asked some Behavioral questions , then moved to System design , Discussed deep about NOSQL Database and SAGA Pattern in Microservices .
+AFTER Interview recruiter told Bar tender is not inclined so she wanted me to give one more round which is again Data Structure and System Design .
+(Round 5 ) -> Interviewer asked me design Instagram . Then discussed about various aspects of avoiding faliures on DB . Then given me Leetcode medium problem
+Word Search .
+I coded and run the solutions with all test cases passing .
+
+GOT A call from recruiter that i got selected for the role .
